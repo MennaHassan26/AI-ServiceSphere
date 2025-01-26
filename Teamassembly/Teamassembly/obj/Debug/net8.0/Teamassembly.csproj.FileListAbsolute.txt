@@ -1,0 +1,14 @@
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\bin\Debug\net8.0\Teamassembly.exe
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\bin\Debug\net8.0\Teamassembly.deps.json
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\bin\Debug\net8.0\Teamassembly.runtimeconfig.json
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\bin\Debug\net8.0\Teamassembly.dll
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\bin\Debug\net8.0\Teamassembly.pdb
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.AssemblyInfoInputs.cache
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.AssemblyInfo.cs
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.csproj.CoreCompileInputs.cache
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.dll
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\refint\Teamassembly.dll
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.pdb
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\Teamassembly.genruntimeconfig.cache
+C:\Users\DAR-MF\source\repos\Teamassembly\Teamassembly\obj\Debug\net8.0\ref\Teamassembly.dll
